@@ -1,0 +1,8 @@
+Parameter,Value,Description
+k_early_pure,0.9530870057417248,Optimal UAT early-time parameter
+Omega_L_pure,0.6996897185694273,Dark Energy density (emergent)
+H0_UAT,73.0,Hubble constant (km/s/Mpc)
+chi2_pure,53.67382118940936,Chi-squared for pure UAT
+chi2_LCDM,87.77344243921561,Chi-squared for standard ΛCDM
+improvement_percent,38.84958855683568,Improvement over ΛCDM (%)
+flatness_deviation,0.0,Deviation from perfect flatness
